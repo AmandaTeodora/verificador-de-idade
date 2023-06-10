@@ -1,0 +1,20 @@
+body{
+    background: rgba(3, 3, 248, 0.822);
+    font-family: Arial, Helvetica, sans-serif ;
+    text-align: center;
+}
+header{
+    color: white;
+}
+section{
+    background: white;
+    border-radius: 5px;
+    text-align: left;
+    padding: 15px;
+    
+
+
+}
+footer{
+    color: white;
+}
